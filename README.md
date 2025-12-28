@@ -11,3 +11,6 @@ Learning Assistant App - A responsive web application built with HTML, CSS, and 
 
 ### 🔐 Console output
 ![Login Page](images/console-output.png)
+
+## Live Demo
+https://atupcy-dev.github.io/learning-assistant/

@@ -4,13 +4,13 @@ Learning Assistant App - A responsive web application built with HTML, CSS, and 
 ## 📸 Screenshots
 
 ### 🌞 Dashboard - Light Mode
-![Dashboard light](images/dashboard-light.png)
+![Dashboard light Mode](images/dashboard-light.png)
 
 ### 🌙 Dashboard - Dark Mode
-![Dashboard Dark](images/dashboard-dark.png)
+![Dashboard Dark Mode](images/dashboard-dark.png)
 
 ### 🔐 Console output
-![Login Page](images/console-output.png)
+![Console Output](images/console-output.png)
 
 ## Live Demo
 https://atupcy-dev.github.io/learning-assistant/
